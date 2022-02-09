@@ -1,5 +1,9 @@
 /** Header **/
-
+body {
+  font-family: Rubik, Helvetica, sans-serif;
+  color: rgb(43, 48, 82);
+  /* background-color: black; */
+}
 #navcol-1 a {
   color: #1c1f33;
   font-size: 14px;
